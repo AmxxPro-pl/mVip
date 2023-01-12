@@ -25,7 +25,7 @@ mVip_Faq_SklepCS "1"                             // Czy ma wyswietlac FAQ SklepC
 mVip_Faq_SklepCS_Side 'https://sklepcs.pl'       // Link do stony SklepCS ( https://sklepcs.pl - Domyślnie )
 mVip_Extra_Jump "1"                              // Czy ma posiadać extra jump ( 1 - Tak | 0 - Nie )
 mVip_Jump "1"                                    // Ile skokow ma posiadac ( 1 - Domyslnie )
-mVip_Max_Hp "t"                                  // Maksymalna ilość HP ( 100 - Domyślnie )
+mVip_Max_Hp "100"                                // Maksymalna ilość HP ( 100 - Domyślnie )
 mVip_Disable_Buy_Helmet_First_Round "1"          // Czy zablokować możliwośc kupna hełmu w 1 rundzie? ( 1 - Tak | 0 - Nie )
 mVip_Enable_Kevlar "1"                           // Darmowy Kevlar ( 1 - Tak | 0 - Nie )
 mVip_Kevlar_Amount "100"                         // Ilość Kevlara
