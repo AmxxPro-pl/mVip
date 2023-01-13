@@ -13,8 +13,6 @@
   <summary><b>mVip_Core.cfg</b></summary>
 
 ```
-mVip_Chat_Tag "VIP »"                            // Tag wyświetlany przed wiadomością na czacie
-mVip_Menu_Tag "VIP"                              // Tag wyświetlany w menu
 mVip_Flags "t"                                   // Flagi, które musi posiadać gracz, aby otrzymać range
 mVip_FreeVip "1"                                 // Czy ma działać darmowa ranga w godzinach ( 1 - Tak | 0 - Nie )
 mVip_FreeVip_Od "18"                             // Od ktorej godziny ma działać ( 18 - Domyślnie )
