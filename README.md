@@ -97,7 +97,7 @@ mVip_Enable_Footsteps "0"                        // Ciche chodzenie ( 1 - Tak | 
 mVip_Footsteps_Round "1"                         // Od której rundy ma dostawać
 mVip_Visibility_Amount "255"                     // Widzialność gracza ( 255 - Podstawowa )
 mVip_Visibility_Round "1"                        // Od której rundy ma dostawać
-mVip_Damage_Give_Percent "100"                   // Obrażenia zadawane przez gracza w % ( 100 - Domyślnie )
+mVip_Damage_Give_Percent "100"                   // Obrażenia zadawane przez gracza w % ( 100 - Normalne )
 mVip_Damage_Give_Round "1"                       // Od której rundy ma dostawać
 mVip_Enable_Damage_Take_Falling "0"              // Obrażenia przy upadku ( 1 - Tak | 0 - Nie )
 mVip_Damage_Take_Falling_Round "1"               // Od której rundy ma dostawać
