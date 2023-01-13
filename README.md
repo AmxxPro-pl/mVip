@@ -20,7 +20,6 @@ mVip_FreeVip_Do "10"                             // Do ktorej godziny ma działa
 mVip_FreeVip_Steam "1"                           // Czy ma działać darmowa ranga dla steam ( 1 - Tak | 0 - Nie )
 mVip_Faq_Payments "1"                            // Czy ma wyswietlac FAQ dostępne platności ( 1 - Tak | 0 - Nie )
 mVip_Faq_SklepCS "1"                             // Czy ma wyswietlac FAQ SklepCS ( 1 - Tak | 0 - Nie )
-mVip_Faq_SklepCS_Side 'https://sklepcs.pl'       // Link do stony SklepCS ( https://sklepcs.pl - Domyślnie )
 mVip_Extra_Jump "1"                              // Ile skokow ma posiadać ( 0 - Nic )
 mVip_Max_Hp "100"                                // Maksymalna ilość HP ( 100 - Domyślnie )
 mVip_Disable_Buy_Helmet_First_Round "1"          // Czy zablokować możliwośc kupna hełmu w 1 rundzie? ( 1 - Tak | 0 - Nie )
