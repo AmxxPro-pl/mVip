@@ -105,8 +105,8 @@ mVip_Enable_Welcome_Goodbye_Dhud "1"             // Przywitanie/Pożegnanie w dh
 mVip_Welcome_Dhud "wbija na serwer!"             // Przywitanie w dhud ( Tekst )
 mVip_Goodbye_Dhud "wychodzi z serwera!"          // Pożegnanie w dhud ( Tekst )
 mVip_Enable_Welcome_Goodbye_Chat "1"             // Przywitanie/Pożegnanie na czat ( 1 - Tak | 0 - Nie )
-mVip_Welcome_Chat "1"                            // Przywitanie na czat ( Tekst )
-mVip_Goodbye_Chat "1"                            // Pożegnanie na czat ( Tekst )
+mVip_Welcome_Chat "wbija na serwer!"             // Przywitanie na czat ( Tekst )
+mVip_Goodbye_Chat "wychodzi z serwera!"          // Pożegnanie na czat ( Tekst )
 mVip_Enable_Full_Magazine "0"                    // Pełen magazynek za zabójstwo ( 1 - Tak | 0 - Nie )
 mVip_Full_Magazine_Round "1"                     // Od której rundy ma dostawać
 ```
