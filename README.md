@@ -33,9 +33,9 @@ mVip_Enable_Shield "0"                           // Darmowy Tarcza ( 1 - Tak | 0
 mVip_Shield_Round "2"                            // Od której rundy ma dostawać
 mVip_Enable_Defuser "1"                          // Darmowy Defuser ( 1 - Tak | 0 - Nie )
 mVip_Defuser_Round "1"                           // Od której rundy ma dostawać
-mVip_Gravity_Amount "1.0"                        // Grawitacja gracza ( 1.0 - Podstawowa )
+mVip_Gravity_Amount "700"                        // Grawitacja gracza ( 700 - Domyślnie )
 mVip_Gravity_Round "1"                           // Od której rundy ma dostawać
-mVip_Speed_Amount "1.0"                          // Szybkość gracza ( 1.0 - Podstawowa )
+mVip_Speed_Amount "0"                            // Szybkość gracza ( 0 - Domyślnie )
 mVip_Speed_Round "1"                             // Od której rundy ma dostawać
 mVip_Extra_Hp_Spawn "0"                          // Dodatkowe HP przy spawnie ( 0 - Jeżeli ma nie dostawać )
 mVip_Extra_Hp_Spawn_Round "1"                    // Od której rundy ma dostawać
@@ -97,7 +97,7 @@ mVip_Enable_Footsteps "0"                        // Ciche chodzenie ( 1 - Tak | 
 mVip_Footsteps_Round "1"                         // Od której rundy ma dostawać
 mVip_Visibility_Amount "255"                     // Widzialność gracza ( 255 - Podstawowa )
 mVip_Visibility_Round "1"                        // Od której rundy ma dostawać
-mVip_Damage_Give_Percent "100"                   // Obrażenia zadawane przez gracza w % ( 100 - Normalne )
+mVip_Damage_Give_Percent "100"                   // Obrażenia zadawane przez gracza w % ( 100 - Domyślnie )
 mVip_Damage_Give_Round "1"                       // Od której rundy ma dostawać
 mVip_Enable_Damage_Take_Falling "0"              // Obrażenia przy upadku ( 1 - Tak | 0 - Nie )
 mVip_Damage_Take_Falling_Round "1"               // Od której rundy ma dostawać
