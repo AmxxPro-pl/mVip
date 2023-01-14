@@ -13,11 +13,11 @@
   <summary><b>mVip_Core.cfg</b></summary>
 
 ```
-mVip_Flags "t"                                   // Flagi, które musi posiadać gracz, aby otrzymać range
-mVip_FreeVip "1"                                 // Czy ma działać darmowa ranga w godzinach ( 1 - Tak | 0 - Nie )
+mVip_Flags "t"                                   // Flagi, które musi posiadać gracz, aby otrzymać VIP'a
+mVip_FreeVip "1"                                 // Czy ma działać darmowy VIP w godzinach ( 1 - Tak | 0 - Nie )
 mVip_FreeVip_Od "18"                             // Od ktorej godziny ma działać ( 18 - Domyślnie )
 mVip_FreeVip_Do "10"                             // Do ktorej godziny ma działać ( 10 - Domyślnie )
-mVip_FreeVip_Steam "1"                           // Czy ma działać darmowa ranga dla steam ( 1 - Tak | 0 - Nie )
+mVip_FreeVip_Steam "1"                           // Czy ma działać darmowy VIP dla steam ( 1 - Tak | 0 - Nie )
 mVip_Faq_Payments "1"                            // Czy ma wyswietlac FAQ dostępne platności ( 1 - Tak | 0 - Nie )
 mVip_Faq_SklepCS "1"                             // Czy ma wyswietlac FAQ SklepCS ( 1 - Tak | 0 - Nie )
 mVip_Extra_Jump "1"                              // Ile skokow ma posiadać ( 0 - Nic )
