@@ -15,12 +15,12 @@
 ```
 mVip_Flags "t"                                   // Flagi, które musi posiadać gracz, aby otrzymać VIP'a
 mVip_FreeVip "1"                                 // Czy ma działać darmowy VIP w godzinach ( 1 - Tak | 0 - Nie )
-mVip_FreeVip_Od "18"                             // Od ktorej godziny ma działać ( 18 - Domyślnie )
-mVip_FreeVip_Do "10"                             // Do ktorej godziny ma działać ( 10 - Domyślnie )
+mVip_FreeVip_Od "18"                             // Od ktorej godziny ma działać darmowy VIP ( 18 - Domyślnie )
+mVip_FreeVip_Do "10"                             // Do ktorej godziny ma działać darmowy VIP ( 10 - Domyślnie )
 mVip_FreeVip_Steam "1"                           // Czy ma działać darmowy VIP dla steam ( 1 - Tak | 0 - Nie )
 mVip_Faq_Payments "1"                            // Czy ma wyswietlac FAQ dostępne platności ( 1 - Tak | 0 - Nie )
 mVip_Faq_SklepCS "1"                             // Czy ma wyswietlac FAQ SklepCS ( 1 - Tak | 0 - Nie )
-mVip_Extra_Jump "1"                              // Ile skokow ma posiadać ( 0 - Nic )
+mVip_Extra_Jump "2"                              // Ile skokow ma posiadać ( 0 - Nic )
 mVip_Max_Hp "100"                                // Maksymalna ilość HP ( 100 - Domyślnie )
 mVip_Disable_Buy_Helmet_First_Round "1"          // Czy zablokować możliwośc kupna hełmu w 1 rundzie? ( 1 - Tak | 0 - Nie )
 mVip_Enable_Kevlar "1"                           // Darmowy Kevlar ( 1 - Tak | 0 - Nie )
@@ -34,8 +34,8 @@ mVip_Enable_Defuser "1"                          // Darmowy Defuser ( 1 - Tak | 
 mVip_Defuser_Round "1"                           // Od której rundy ma dostawać
 mVip_Gravity_Amount "700"                        // Grawitacja gracza ( 700 - Domyślnie )
 mVip_Gravity_Round "1"                           // Od której rundy ma dostawać
-mVip_Speed_Amount "0"                            // Szybkość gracza ( 0 - Domyślnie )
-mVip_Speed_Round "1"                             // Od której rundy ma dostawać
+mVip_Speed_Amount "1.0"                          // Szybkość gracza ( 0 - Domyślnie )
+mVip_Speed_Round "0"                             // Od której rundy ma dostawać
 mVip_Extra_Hp_Spawn "0"                          // Dodatkowe HP przy spawnie ( 0 - Jeżeli ma nie dostawać )
 mVip_Extra_Hp_Spawn_Round "1"                    // Od której rundy ma dostawać
 mVip_Extra_Money_Spawn "0"                       // Dodatkowe $ przy spawnie ( 0 - Jeżeli ma nie dostawać )
@@ -104,5 +104,9 @@ mVip_Enable_Welcome_Goodbye_Dhud "1"             // Przywitanie/Pożegnanie w dh
 mVip_Enable_Welcome_Goodbye_Chat "1"             // Przywitanie/Pożegnanie na czat ( 1 - Tak | 0 - Nie )
 mVip_Enable_Full_Magazine "0"                    // Pełen magazynek za zabójstwo ( 1 - Tak | 0 - Nie )
 mVip_Full_Magazine_Round "1"                     // Od której rundy ma dostawać
+mVip_Enable_Primary_Weapon_Menu "4"              // Czy ma się wyświetlać menu z karabinami( 1 - Tak | 0 - Nie )
+mVip_Primary_Weapon_Menu_Round "1"               // Od której rundy ma dostawać
+mVip_Enable_Secondary_Weapon_Menu "1"            // Czy ma się wyświetlać menu z pistoletami ( 1 - Tak | 0 - Nie )
+mVip_Secondary_Weapon_Menu_Round "1"             // Od której rundy ma dostawać
 ```
 </details>
