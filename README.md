@@ -104,8 +104,8 @@ mVip_Enable_Welcome_Goodbye_Dhud "1"             // Przywitanie/Pożegnanie w dh
 mVip_Enable_Welcome_Goodbye_Chat "1"             // Przywitanie/Pożegnanie na czat ( 1 - Tak | 0 - Nie )
 mVip_Enable_Full_Magazine "0"                    // Pełen magazynek za zabójstwo ( 1 - Tak | 0 - Nie )
 mVip_Full_Magazine_Round "1"                     // Od której rundy ma dostawać
-mVip_Enable_Primary_Weapon_Menu "4"              // Czy ma się wyświetlać menu z karabinami ( 1 - Tak | 0 - Nie )
-mVip_Primary_Weapon_Menu_Round "1"               // Od której rundy ma dostawać
+mVip_Enable_Primary_Weapon_Menu "1"              // Czy ma się wyświetlać menu z karabinami ( 1 - Tak | 0 - Nie )
+mVip_Primary_Weapon_Menu_Round "4"               // Od której rundy ma dostawać
 mVip_Enable_Secondary_Weapon_Menu "1"            // Czy ma się wyświetlać menu z pistoletami ( 1 - Tak | 0 - Nie )
 mVip_Secondary_Weapon_Menu_Round "1"             // Od której rundy ma dostawać
 ```
