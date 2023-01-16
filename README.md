@@ -13,6 +13,11 @@
   <summary><b>mVip_Core.cfg</b></summary>
 
 ```
+;============================================================== » mVip - Core « ==============================================================
+;                                                             ©️ mpN` | AmxxPro.pl
+
+mVip_Chat_Tag "mVip"                             // Prefix na czat ( mVip - Domyślnie )
+mVip_Menu_Tag "mVip"                             // Prefix w menu ( mVip - Domyślnie )
 mVip_Flags "t"                                   // Flagi, które musi posiadać gracz, aby otrzymać VIP'a
 mVip_FreeVip "1"                                 // Czy ma działać darmowy VIP w godzinach ( 1 - Tak | 0 - Nie )
 mVip_FreeVip_Od "18"                             // Od ktorej godziny ma działać darmowy VIP ( 18 - Domyślnie )
@@ -80,9 +85,11 @@ mVip_Extra_Money_Grenade_Info "1"                // Powiadomienie na czat ( 1 - 
 mVip_Extra_Hp_Kill "0"                           // Dodatkowe HP za zabójstwo ( 0 - Jeżeli ma nie dostawać )
 mVip_Extra_Hp_Kill_Round "1"                     // Od której rundy ma dostawać
 mVip_Extra_Hp_Kill_Info "1"                      // Powiadomienie na czat ( 1 - Tak | 0 - Nie )
-mVip_Extra_Hp_Kill_Hs "1"                        // Dodatkowe HP za Headshota ( 0 - Jeżeli ma nie dostawać )
+mVip_Extra_Hp_Kill_Hs "0"                        // Dodatkowe HP za Headshota ( 0 - Jeżeli ma nie dostawać )
 mVip_Extra_Hp_Kill_Hs_Round "1"                  // Od której rundy ma dostawać
 mVip_Extra_Hp_Kill_Hs_Info "1"                   // Powiadomienie na czat ( 1 - Tak | 0 - Nie )
+mVip_Enable_Full_Magazine_Kill "0"               // Pełen magazynek za zabójstwo ( 1 - Tak | 0 - Nie )
+mVip_Full_Magazine_Kill_Round "1"                // Od której rundy ma dostawać
 mVip_Extra_Hp_Assist "0"                         // Dodatkowe HP za asystę ( 0 - Jeżeli ma nie dostawać )
 mVip_Extra_Hp_Assist_Round "1"                   // Od której rundy ma dostawać
 mVip_Extra_Hp_Assist_Info "1"                    // Powiadomienie na czat ( 1 - Tak | 0 - Nie )
@@ -102,11 +109,17 @@ mVip_Enable_Damage_Take_Falling "0"              // Obrażenia przy upadku ( 1 -
 mVip_Damage_Take_Falling_Round "1"               // Od której rundy ma dostawać
 mVip_Enable_Welcome_Goodbye_Dhud "1"             // Przywitanie/Pożegnanie w dhud ( 1 - Tak | 0 - Nie )
 mVip_Enable_Welcome_Goodbye_Chat "1"             // Przywitanie/Pożegnanie na czat ( 1 - Tak | 0 - Nie )
-mVip_Enable_Full_Magazine "0"                    // Pełen magazynek za zabójstwo ( 1 - Tak | 0 - Nie )
-mVip_Full_Magazine_Round "1"                     // Od której rundy ma dostawać
 mVip_Enable_Primary_Weapon_Menu "1"              // Czy ma się wyświetlać menu z karabinami ( 1 - Tak | 0 - Nie )
-mVip_Primary_Weapon_Menu_Round "4"               // Od której rundy ma dostawać
+mVip_Primary_Weapon_Menu_Round "3"               // Od której rundy ma dostawać
 mVip_Enable_Secondary_Weapon_Menu "1"            // Czy ma się wyświetlać menu z pistoletami ( 1 - Tak | 0 - Nie )
 mVip_Secondary_Weapon_Menu_Round "1"             // Od której rundy ma dostawać
+mVip_Hegrenade_Amount "4"                        // Ilość darmowych granatów ( 0 - Jeżeli ma nie dostawać )
+mVip_Hegrenade_Round "1"                         // Od której rundy ma dostawać
+mVip_Flash_Amount "2"                            // Ilość darmowych flashy ( 0 - Jeżeli ma nie dostawać )
+mVip_Flash_Round "1"                             // Od której rundy ma dostawać
+mVip_Smoke_Amount "1"                            // Ilość darmowych smoke ( 0 - Jeżeli ma nie dostawać )
+mVip_Smoke_Round "1"                             // Od której rundy ma dostawać
+
+;============================================================== » mVip - Core « ==============================================================
 ```
 </details>
