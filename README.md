@@ -113,7 +113,7 @@ mVip_Enable_Primary_Weapon_Menu "1"              // Czy ma się wyświetlać men
 mVip_Primary_Weapon_Menu_Round "3"               // Od której rundy ma dostawać
 mVip_Enable_Secondary_Weapon_Menu "1"            // Czy ma się wyświetlać menu z pistoletami ( 1 - Tak | 0 - Nie )
 mVip_Secondary_Weapon_Menu_Round "1"             // Od której rundy ma dostawać
-mVip_Hegrenade_Amount "4"                        // Ilość darmowych granatów ( 0 - Jeżeli ma nie dostawać )
+mVip_Hegrenade_Amount "1"                        // Ilość darmowych granatów ( 0 - Jeżeli ma nie dostawać )
 mVip_Hegrenade_Round "1"                         // Od której rundy ma dostawać
 mVip_Flash_Amount "2"                            // Ilość darmowych flashy ( 0 - Jeżeli ma nie dostawać )
 mVip_Flash_Round "1"                             // Od której rundy ma dostawać
