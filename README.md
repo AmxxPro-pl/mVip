@@ -88,8 +88,8 @@ mVip_Extra_Hp_Kill_Info "1"                      // Powiadomienie na czat ( 1 - 
 mVip_Extra_Hp_Kill_Hs "0"                        // Dodatkowe HP za Headshota ( 0 - Jeżeli ma nie dostawać )
 mVip_Extra_Hp_Kill_Hs_Round "1"                  // Od której rundy ma dostawać
 mVip_Extra_Hp_Kill_Hs_Info "1"                   // Powiadomienie na czat ( 1 - Tak | 0 - Nie )
-mVip_Enable_Full_Magazine_Kill "0"               // Pełen magazynek za zabójstwo ( 1 - Tak | 0 - Nie )
-mVip_Full_Magazine_Kill_Round "1"                // Od której rundy ma dostawać
+mVip_Extra_Full_Magazine_Kill "0"                // Pełen magazynek za zabójstwo ( 1 - Tak | 0 - Nie )
+mVip_Extra_Full_Magazine_Kill_Round "1"          // Od której rundy ma dostawać
 mVip_Extra_Hp_Assist "0"                         // Dodatkowe HP za asystę ( 0 - Jeżeli ma nie dostawać )
 mVip_Extra_Hp_Assist_Round "1"                   // Od której rundy ma dostawać
 mVip_Extra_Hp_Assist_Info "1"                    // Powiadomienie na czat ( 1 - Tak | 0 - Nie )
