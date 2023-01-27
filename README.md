@@ -13,33 +13,35 @@
   <summary><b>mVip_Core.cfg</b></summary>
 
 ```
-;============================================================== » mVip - Core « ==============================================================
-;                                                             ©️ mpN` | AmxxPro.pl
+//============================================================== » mVip - Core « ==============================================================\\
+//                                                              © mpN` | AmxxPro.pl                                                            \\
 
-mVip_Chat_Tag "mVip"                             // Prefix na czat ( mVip - Domyślnie )
-mVip_Menu_Tag "mVip"                             // Prefix w menu ( mVip - Domyślnie )
+mVip_Chat_Tag "VIP"                              // Prefix na czat ( VIP - Domyślnie )
+mVip_Menu_Tag "VIP"                              // Prefix w menu ( VIP - Domyślnie )
 mVip_Flags "t"                                   // Flagi, które musi posiadać gracz, aby otrzymać VIP'a
 mVip_FreeVip "1"                                 // Czy ma działać darmowy VIP w godzinach ( 1 - Tak | 0 - Nie )
-mVip_FreeVip_Od "18"                             // Od ktorej godziny ma działać darmowy VIP ( 18 - Domyślnie )
-mVip_FreeVip_Do "10"                             // Do ktorej godziny ma działać darmowy VIP ( 10 - Domyślnie )
+mVip_FreeVip_Od "18"                             // Od której godziny ma działać darmowy VIP ( 18 - Domyślnie )
+mVip_FreeVip_Do "10"                             // Do której godziny ma działać darmowy VIP ( 10 - Domyślnie )
 mVip_FreeVip_Steam "1"                           // Czy ma działać darmowy VIP dla steam ( 1 - Tak | 0 - Nie )
-mVip_Faq_Payments "1"                            // Czy ma wyswietlac FAQ dostępne platności ( 1 - Tak | 0 - Nie )
-mVip_Faq_SklepCS "1"                             // Czy ma wyswietlac FAQ SklepCS ( 1 - Tak | 0 - Nie )
+mVip_Faq_Payments "1"                            // Czy ma wyświetlać FAQ dostępne platności ( 1 - Tak | 0 - Nie )
+mVip_Faq_SklepCS "1"                             // Czy ma wyświetlać FAQ SklepCS ( 1 - Tak | 0 - Nie )
 mVip_Extra_Jump "2"                              // Ile skokow ma posiadać ( 0 - Nic )
 mVip_Max_Hp "100"                                // Maksymalna ilość HP ( 100 - Domyślnie )
-mVip_Disable_Buy_Helmet_First_Round "1"          // Czy zablokować możliwośc kupna hełmu w 1 rundzie? ( 1 - Tak | 0 - Nie )
+mVip_Disable_Buy_Helmet_First_Round "1"          // Czy zablokować możliwość kupna hełmu w 1 rundzie? ( 1 - Tak | 0 - Nie )
 mVip_Enable_Kevlar "1"                           // Darmowy Kevlar ( 1 - Tak | 0 - Nie )
 mVip_Kevlar_Amount "100"                         // Ilość Kevlara
 mVip_Kevlar_Round "1"                            // Od której rundy ma dostawać
 mVip_Enable_Helmet "1"                           // Darmowy Hełm ( 1 - Tak | 0 - Nie )
 mVip_Helmet_Round "2"                            // Od której rundy ma dostawać
-mVip_Enable_Shield "0"                           // Darmowy Tarcza ( 1 - Tak | 0 - Nie )
+mVip_Enable_Shield "0"                           // Darmowa Tarcza ( 1 - Tak | 0 - Nie )
 mVip_Shield_Round "2"                            // Od której rundy ma dostawać
 mVip_Enable_Defuser "1"                          // Darmowy Defuser ( 1 - Tak | 0 - Nie )
 mVip_Defuser_Round "1"                           // Od której rundy ma dostawać
-mVip_Gravity_Amount "700"                        // Grawitacja gracza ( 700 - Domyślnie )
+mVip_Enable_Gravity "0"                          // Czy grawitacja gracza ma być zwiększona/zmniejszona? ( 1 - Tak | 0 - Nie ) 
+mVip_Gravity_Amount "400"                        // Grawitacja gracza ( 400 - Domyślnie ) 
 mVip_Gravity_Round "1"                           // Od której rundy ma dostawać
-mVip_Speed_Amount "1.0"                          // Szybkość gracza ( 0 - Domyślnie )
+mVip_Enable_Speed "0"                            // Czy szybkość gracza ma być zwiększona/zmniejszona? ( 1 - Tak | 0 - Nie ) 
+mVip_Speed_Amount "100"                          // Szybkość gracza ( 100 - Domyślnie ) 
 mVip_Speed_Round "0"                             // Od której rundy ma dostawać
 mVip_Extra_Hp_Spawn "0"                          // Dodatkowe HP przy spawnie ( 0 - Jeżeli ma nie dostawać )
 mVip_Extra_Hp_Spawn_Round "1"                    // Od której rundy ma dostawać
@@ -120,6 +122,6 @@ mVip_Flash_Round "1"                             // Od której rundy ma dostawa�
 mVip_Smoke_Amount "1"                            // Ilość darmowych smoke ( 0 - Jeżeli ma nie dostawać )
 mVip_Smoke_Round "1"                             // Od której rundy ma dostawać
 
-;============================================================== » mVip - Core « ==============================================================
+//============================================================== » mVip - Core « ==============================================================\\
 ```
 </details>
