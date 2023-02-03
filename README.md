@@ -1,5 +1,7 @@
-# mVip
-
+<div align="center">
+<h1><p></p>mVip<p></p></h1>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner.png"></img>
+</div>
 
 ### Description
 - Rozbudowany system VIP na serwery CS 1.6
